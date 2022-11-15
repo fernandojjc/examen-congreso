@@ -1,0 +1,29 @@
+.card-comp {
+    border-radius: 5%;
+    padding: 6%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 180px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .card-comp:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container-comp {
+    width: 150px;
+    padding: 2px 16px;
+    text-align: center;
+    margin: auto;
+  }
+
+  .img-sizes{
+    width: 130px;
+    cursor: pointer;
+  }
+
+  .img-sizes-twitter{
+    width: 15px;
+  }

@@ -1,0 +1,21 @@
+.h-mod{
+  font-family: 'Franklin',serif;
+  font-size: 3.2em;
+  font-weight: bold;
+}
+
+.cards:hover{
+  box-shadow: 2px 2px 5px 2px rgb(143, 187, 243);
+}
+
+.zoom {
+  transition: transform .4s;
+
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+}

@@ -1,0 +1,10 @@
+.activate{
+    color:black;
+    font-weight: bold;
+    display: block;
+    box-sizing: border-box;
+}
+
+.activate:link, .activate:visited, .activate:active {
+    text-decoration:none;
+}
